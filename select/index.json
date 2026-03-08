@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エンパイア・ステイト・オブ・マインド（feat．アリシア・キーズ）",
+  "base_artist": "JAŸ-Z",
+  "createdAt": "2026-03-08T05:31:35.014467Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "Jay-Z",
+      "has_synced": false,
+      "path": "select/pl_01_Empire_State_Of_Mind_(feat._Alicia_Keys)_Jay-Z.txt"
+    }
+  ]
+}
